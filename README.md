@@ -1,2 +1,5 @@
 # hello-wold
-guregi
+
+my name is regi
+
+i like node.js and coffescript
